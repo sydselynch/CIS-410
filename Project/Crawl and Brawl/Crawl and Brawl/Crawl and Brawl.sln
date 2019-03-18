@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawl and Brawl", "Assembly-CSharp.csproj", "{439090A3-6DC1-19BF-5E33-5A65B71DD58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawl and Brawl", "Assembly-CSharp-Editor.csproj", "{304C2B67-3219-DA18-E4AD-385B10910997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{439090A3-6DC1-19BF-5E33-5A65B71DD58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439090A3-6DC1-19BF-5E33-5A65B71DD58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439090A3-6DC1-19BF-5E33-5A65B71DD58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439090A3-6DC1-19BF-5E33-5A65B71DD58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304C2B67-3219-DA18-E4AD-385B10910997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304C2B67-3219-DA18-E4AD-385B10910997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304C2B67-3219-DA18-E4AD-385B10910997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304C2B67-3219-DA18-E4AD-385B10910997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

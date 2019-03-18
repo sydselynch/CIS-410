@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assignment 3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Complete-Game\Scripts\Done_PlayerController.cs">
+    <Files>
+      <File FileName="Assets\_Complete-Game\Scripts\Done_PlayerController.cs" Line="48" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Syd\Desktop\CIS 410\Assignment 3\Assignment 3\Assets\_Complete-Game\Scripts\Done_PlayerController.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
